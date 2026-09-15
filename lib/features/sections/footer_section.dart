@@ -34,7 +34,7 @@ class FooterSection extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'eder - Early Detection Work Readiness',
+            'EDER - Early Detection Work Readiness',
             style: AppTextStyle.titleMd,
           ),
           const SizedBox(height: 16.0),
